@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+.scrollTop{
+	position: fixed;
+	bottom: .25rem;
+	right: 0;
+	left: 0;
+	margin: auto;
+	width: 6rem;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 0 .4rem;
+	font-size: .24rem;
+	text-align: right;
+	border-radius: .08rem;
+	color: #fff;
+	height: .5rem;
+	line-height: .5rem;
+	display: none;
+	z-index: 9999;
+	background: url('../images/scrolltop_bg.png') no-repeat 4.7rem center rgba(190, 190, 190, .76);
+	-webkit-background-size: .33rem auto;
+	background-size: .33rem auto;
+}

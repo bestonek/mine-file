@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* 重置 */
+	*{
+		padding: 0;
+		margin: 0;
+		color: #333;
+		font-family: "微软雅黑";
+		outline: 0;
+	}
+	body{
+		background-color: #fff;
+	}
+	a{
+		text-decoration: none;
+	}
+	a img{
+		display: block;
+		border: none;
+	}
+	li{
+		list-style: none;
+	}
+	h1,h2,h3,h4,h5,h6{
+		font-weight: normal;
+	}
